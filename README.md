@@ -1,6 +1,6 @@
 # Checker - cc / Validor de tarjetas de credito / BSZ
 
-# Cre una reciente pero formato free 
+# Cree una reciente pero formato free echale un vistazo
 https://github.com/AvastrOficial/checkerV2-CC
 
 
