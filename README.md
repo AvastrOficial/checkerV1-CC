@@ -1,5 +1,10 @@
 # Checker - cc / Validor de tarjetas de credito / BSZ
-# Se creo un parecida con una api free :
+
+# Cre una reciente pero formato free 
+https://github.com/AvastrOficial/checkerV2-CC
+
+///////////////////////////////////////////////////////////////////////////
+# Se creo un parecida con una api free  Ya no sirve la api:
 https://github.com/AvastrOficial/Checker-CC
 
 # Documentacion del creador de la api :
